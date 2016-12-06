@@ -49,3 +49,12 @@ p {
   color: #fff;
   text-align: center;
 }
+
+dl dd {
+  display: block;
+  margin-left: 10rem;
+}
+
+dl dt {
+  display: block;
+}
